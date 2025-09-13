@@ -52,6 +52,14 @@ La app soporta:
 
 ---
 
+## Link del proyecto 
+
+* https://react-peliculas-tau.vercel.app/
+
+## Link del portafolio
+
+* https://daxdev.helioho.st/
+
 ## Instalación
 
 Clona el repositorio y ejecuta los siguientes comandos:
